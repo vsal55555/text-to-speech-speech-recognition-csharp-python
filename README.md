@@ -132,6 +132,18 @@ The application uses UTF-8 throughout the communication pipeline to ensure multi
 
 ---
 
+## 📷 Application Screenshots
+
+### Main Application
+
+<img width="1086" height="694" alt="image" src="https://github.com/user-attachments/assets/c983953a-5fb3-4af0-973b-175585736c70" />
+
+### converted speech
+
+location to: TextToSpeechConverter\bin\Debug\net10.0-windows\speech.mp3
+
+---
+
 ## 🌍 Supported Languages
 
 | Language | TTS | STT |
