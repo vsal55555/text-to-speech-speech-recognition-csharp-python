@@ -140,7 +140,7 @@ The application uses UTF-8 throughout the communication pipeline to ensure multi
 
 ### converted speech
 
-location to: TextToSpeechConverter\bin\Debug\net10.0-windows\speech.mp3
+[speech.mp3](https://github.com/user-attachments/files/35071731/speech.mp3)
 
 ---
 
